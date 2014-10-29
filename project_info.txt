@@ -1,0 +1,35 @@
+-------------------------------------------------------------------
+--------------------Futurism Assignment----------------------------
+-------------------------------------------------------------------
+
+-------------------Personal Info----------------------
+
+Name : shankar menon
+Email : menonshankar81@gmail.com
+phone : 8551084673
+
+------------------------------------------------------
+
+------------------Project Info------------------------
+Host name : localhost/127.0.0.1
+user name : 'root'
+password : ''
+
+Database name : 'shankar_test'
+
+
+folders/files:
+	
+	classes(folder) : contains all class files prefixed with C.
+	Core (folder)	: contains all initialization parameters.
+	index.php	: landing file.
+	update.php	: provides update functionality.
+	
+	shankar_test.sql: sql file contaning dump for tables - 'product_master'
+ 			  and 'category'.
+
+--------------------------------------------------------
+	
+	
+
+	
